@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Abdul Azhar Jamesh - B.Tech. Computer Science and Engineering (Artificial Intelligence), Amrita Vishwa Vidyapeetham, Coimbatore." width="100%">
+  <img src="assets/profile-banner-simple.svg" alt="Abdul Azhar Jamesh - B.Tech. Computer Science and Engineering (Artificial Intelligence), Amrita Vishwa Vidyapeetham, Coimbatore." width="100%">
 </p>
 
 <p align="center">
