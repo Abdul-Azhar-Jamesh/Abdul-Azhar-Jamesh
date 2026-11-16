@@ -1,34 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Abdul Azhar Jamesh — AI, robotics and open source</title>
-  <desc id="desc">CSE Artificial Intelligence undergraduate at Amrita Vishwa Vidyapeetham, Coimbatore. Class of 2028.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Abdul Azhar Jamesh</title>
+  <desc id="desc">B.Tech. Computer Science and Engineering (Artificial Intelligence), Amrita Vishwa Vidyapeetham, Coimbatore.</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091424"/><stop offset="1" stop-color="#171d3d"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#43e0cc"/><stop offset="1" stop-color="#9d8cff"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#4949b5" stop-opacity=".5"/><stop offset="1" stop-color="#4949b5" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#9caee3" opacity=".14"/></pattern>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#101a2c"/>
+      <stop offset="1" stop-color="#1b2340"/>
+    </linearGradient>
   </defs>
-  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
-  <ellipse cx="1010" cy="155" rx="280" ry="240" fill="url(#glow)"/>
-  <rect x="48" y="46" width="4" height="210" rx="2" fill="url(#accent)"/>
+  <rect width="1200" height="250" rx="20" fill="url(#background)"/>
+  <rect x="52" y="54" width="4" height="142" rx="2" fill="#77d7d1"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="76" y="74" fill="#69e5d8" font-size="14" font-weight="700" letter-spacing="3">AI / ROBOTICS / OPEN SOURCE</text>
-    <text x="74" y="140" fill="#f4f7ff" font-size="49" font-weight="700" letter-spacing="-1.5">Abdul Azhar Jamesh</text>
-    <text x="76" y="181" fill="#c2cee8" font-size="21">Machine learning. Visual perception. Reliable software.</text>
-    <text x="76" y="223" fill="#a0b0d2" font-size="16">CSE (Artificial Intelligence) · Amrita Vishwa Vidyapeetham</text>
-    <text x="76" y="250" fill="#a0b0d2" font-size="16">Coimbatore, India · B.Tech. 2024–2028</text>
-    <rect x="76" y="276" width="226" height="30" rx="15" fill="#15362f" stroke="#316859"/>
-    <circle cx="94" cy="291" r="4" fill="#61e7b6"/>
-    <text x="108" y="296" font-size="12" fill="#a7f1d4" font-weight="600">IEEE TENCON 2026 · Accepted</text>
+    <text x="82" y="105" fill="#f3f6ff" font-size="46" font-weight="700">Abdul Azhar Jamesh</text>
+    <text x="84" y="151" fill="#c7d3ea" font-size="23">B.Tech. Computer Science &amp; Engineering (Artificial Intelligence)</text>
+    <text x="84" y="187" fill="#99adcf" font-size="21">Amrita Vishwa Vidyapeetham, Coimbatore</text>
   </g>
-  <g stroke="url(#accent)" fill="none" stroke-width="1.5" opacity=".65">
-    <path d="M934 68 1061 96 1115 200 1007 266 889 206 934 68 1007 147 1061 96M889 206 1007 147 1115 200M1007 147V266"/>
-    <circle cx="1007" cy="166" r="109" stroke-dasharray="4 10" opacity=".3"/>
-    <circle cx="1007" cy="166" r="145" stroke-dasharray="2 14" opacity=".2"/>
-  </g>
-  <g fill="#72e5df" stroke="#111f35" stroke-width="5">
-    <circle cx="934" cy="68" r="9"/><circle cx="1061" cy="96" r="9"/><circle cx="1115" cy="200" r="9"/>
-    <circle cx="1007" cy="266" r="9"/><circle cx="889" cy="206" r="9"/><circle cx="1007" cy="147" r="13" fill="#b1a2ff"/>
-  </g>
-  <rect x="48" y="330" width="1104" height="3" rx="1.5" fill="url(#accent)" opacity=".7"/>
 </svg>
